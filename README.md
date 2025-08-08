@@ -1,7 +1,7 @@
-## Jenkins-controller
+# Jenkins-controller
 A tool to maintain a Jenkins instance
 
-# Features
+## Features
 - startJenkins
 - restoreBackup
 - triggerJobs
